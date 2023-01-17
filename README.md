@@ -19,7 +19,5 @@ Neste Koan você irá aprender como usar argumentos de funções (parâmetros) c
 Link: [https://play.kotlinlang.org/koans/Introduction/Named%20arguments/Task.kt](https://play.kotlinlang.org/koans/Introduction/Named%20arguments/Task.kt)
 
 Vídeo com explicação: [https://youtu.be/rG5NmyWWhMY](https://youtu.be/rG5NmyWWhMY)
-
- ##    
  
-🏗️ Vídeos estão sendo adicionados toda semana! 
+🏗️ Obs.: Vídeos estão sendo adicionados toda semana.
